@@ -9,8 +9,8 @@ title: "About me"
 P Chen, CK Cheng, A Chern, C Holtz, A Li, Y Wang, 2022, “Placement Initialization via a Projected Eigenvector Algorithm”. Proceedings of the 59th ACM/IEEE Design Automation Conference (DAC). 2022.
 
 ## SKILLS
-* Language: Mandarin (native), English (fluent)
-* Computer Science:
+* <strong>Language</strong>: Mandarin (native), English (fluent)
+* <strong>Computer Science</strong>:
     * Language: C, C++, Java, Python, SQL, Bash Script, Assembly (Arm, X86)
     * Packages: JAX, Pytorch, Tensorflow, Pandas, Numpy
 
