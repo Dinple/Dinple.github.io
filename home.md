@@ -3,6 +3,6 @@ layout: page
 title: "Home"
 ---
 
-<img src="/assets/photos/yw.jpg" alt="me" width="200"/>
+<img style="float: right;" src="/assets/photos/yw.jpg" alt="me" width="200"/>
 
 Yucheng Wang is Master’s student at UC San Diego in the Computer Science and Engineering department, advised by Prof. Chung-Kuan Cheng. Yucheng's research interests include graph algorithms and machine learning and optimization and VLSI layout. His main focus is on VLSI placement problem. Prior to pursing a Master's degree, Yucheng has also worked on deep learning models on AFib detection.
