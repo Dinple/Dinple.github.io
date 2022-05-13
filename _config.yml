@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.md", title: About me, Change, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "yuw132@ucsd.edu"}
+  - {title: Mail, icon: envelope, file: "mail.md"}
   - {title: Github, icon: github, url: "https://github.com/Dinple"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/yucheng-wang-5080a917a/"}
 
