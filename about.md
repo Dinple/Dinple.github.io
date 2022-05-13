@@ -17,9 +17,11 @@ P Chen, CK Cheng, A Chern, C Holtz, A Li, Y Wang, 2022, “Placement Initializat
 ## EDUCATION BACKGROUND
 ### University of California San Diego
 M.S. in Computer Science
+<em>Sep. 2021 – May. 2023</em>
 
 ### Purdue University
 B.S. in Computer Science
+<em>Jan. 2019 – May. 2021</em>
 
 ## RESEARCH EXPERIENCE
 
