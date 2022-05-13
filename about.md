@@ -28,9 +28,16 @@ B.S. in Computer Science               <em>Jan. 2019 – May. 2021</em>
 * Honor: Dean's List & Semester Honors 2019-2021
 
 ## RESEARCH EXPERIENCE
-* <strong>Graphical Research: Eigenvalue Problem with Linear Constraints</strong>
-**
-* <strong></strong>
-* <strong></strong>
+* <strong>Graphical Research: Eigenvalue Problem with Linear Constraints</strong><em>Research Assistant, Advised by CK Cheng, Distinguished Professor</em>
+   * Formulated an initialization method for analytical placement of VLSI designs to minimize wirelength and density.
+   * Derived an efficient algorithm from Spectrum theorem and QCQP that generate initial layout for millions of cells.
+* <strong>Additive Feedforward Neural Network on Afib Detection Research</strong><em>Research Assistant, Advised by Xiaoqian Wang, Assistant Professor</em>
+   * Designed and implemented Additive Feedforward Learning algorithm on multiple machine learning models to detect heart failure.
+   * Performed data cleaning and relabeling on ECG dataset from 2017 PhysioNet/CinC Challenge to be compatible with the additive layers’ setting for further evaluation
+   * Used Numpy and Pandas packages to build Logistic Classifiers from scratch to integrate the additive layers, achieving an accuracy over 80% on heart failure detection
+* <strong>Application of AI and Big Data in Quantitative Transaction</strong>
+   * Collected and preprocessed CSI 300 Index from 1996 to 2018, and applied factor analysis to extract useful factors like idiosyncratic risk, firm size, asset to market ratio, dividend to price ratio, etc.
+   * Applied Machine Learning models like XGBoost, SVM and KNN to compare with base model, Linear regression
+   * Applied Fama-French three-factor and five-factor model to evaluate the Machine Learning models
 
 ## ANDROID PROJECTS
