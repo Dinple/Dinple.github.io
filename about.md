@@ -41,3 +41,12 @@ B.S. in Computer Science &nbsp; &nbsp; &nbsp; <em>Jan. 2019 – May. 2021</em>
    * Applied Fama-French three-factor and five-factor model to evaluate the Machine Learning models
 
 ## ANDROID PROJECTS
+* <strong>SchoolBit</strong>  &nbsp; &nbsp; &nbsp;  <em>Independent Android Development</em>
+   * Conducted a comprehensive feature update on Blackboard, an outdated educational platform, to enhance user experiences.
+   * Designed and implemented UI assets and individual performance interfaces, allowing students to look at their own scores.
+   * Implemented the app from scratch with a user-friendly interface and performance rating system for each course.
+
+* <strong>Questa</strong>  &nbsp; &nbsp; &nbsp;  <em>Independent Android Development</em>
+   * Used Java and Android Studio to create a task management app that based on RPG quest mechanics with reward system
+   * Designed and painted the entire UI and all pixel assets with Adobe XD and then replicated the design to Android Studio
+   * Published on Google Play on Oct.7th
