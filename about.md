@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 ## PUBLICATION
-(Pending) Gear-Ratio-Aware SMT Cell Synthesis for CFET.
+(Pending) Gear-Ratio-Aware SMT Cell Synthesis for CFET. [[HERE]](https://github.com/Dinple/Dinple.github.io/raw/master/assets/Gear_Ratio_Aware_SMT_Cell_Synthesis_for_CFET%20(4).pdf)
 
 Cheng, Chung-Kuan & Kahng, Andrew & Kundu, Sayak & Wang, Yucheng & Wang, Zhiang. (2023). Assessment of Reinforcement Learning for Macro Placement.  Proceedings of ACM/IEEE Intl. Symp. on Physical Design, 2023, to appear. (Invited Paper)
 
